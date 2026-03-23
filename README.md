@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shin0bi1997
-- 👀 I’m interested in crypography, blockchain, cybersecurity
-- 🌱 I’m currently learning assembly, Data Structures, Rust
+- 👀 I’m interested in cryptography, blockchain, cybersecurity
+- 🌱 I’m currently learning Typescript :)
 - 📫 How to reach me - khan75@uwindsor.ca
 
 
